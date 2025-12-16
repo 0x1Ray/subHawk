@@ -552,7 +552,7 @@ show_results() {
         echo
     fi
     
-    echo -e "${PURPLE}${BOLD}                    Reconnaissance Process Completed                         ${NC}"
+    echo -e "${PURPLE}${BOLD}                    HAPPY HUNTING ;)                         ${NC}"
     echo -e "${CYAN}  ════════════════════════════════════════════════════════════════════════════════${NC}"
 }
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Enhanced subHawk - Fixed Version
-# Professional Subdomain Enumeration Tool with Better Error Handling
+# subHawk - Full Version 1.0
+# Professional Subdomain Enumeration Tool Made with Bash Script Only
 
 # Colors
 RED='\033[0;31m'
